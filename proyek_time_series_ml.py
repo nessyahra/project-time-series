@@ -9,7 +9,6 @@ Original file is located at
 # **Proyek Machine Learning dengan Time Series**
 
 *   **Nama:** Venessa Yumadila Syahra
-*   **e-mail:** vyumadila@gmail.com
 *   **ID Dicoding:** nessasyahra
 """
 
